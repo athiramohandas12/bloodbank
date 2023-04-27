@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/bloodbank/static/css/main.5ca99e5d.css",
+    "main.js": "/bloodbank/static/js/main.fb4ee801.js",
+    "static/js/787.c3db19df.chunk.js": "/bloodbank/static/js/787.c3db19df.chunk.js",
+    "static/media/image 26.png": "/bloodbank/static/media/image 26.f241b70d173b6ecedabf.png",
+    "static/media/image 27.png": "/bloodbank/static/media/image 27.ab8117d10f851667df40.png",
+    "static/media/hiii.png": "/bloodbank/static/media/hiii.a3a1c4ce115ae104a901.png",
+    "static/media/image 25.png": "/bloodbank/static/media/image 25.c21383df67afccb9f132.png",
+    "index.html": "/bloodbank/index.html",
+    "main.5ca99e5d.css.map": "/bloodbank/static/css/main.5ca99e5d.css.map",
+    "main.fb4ee801.js.map": "/bloodbank/static/js/main.fb4ee801.js.map",
+    "787.c3db19df.chunk.js.map": "/bloodbank/static/js/787.c3db19df.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5ca99e5d.css",
+    "static/js/main.fb4ee801.js"
+  ]
+}
